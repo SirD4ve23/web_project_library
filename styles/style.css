@@ -346,7 +346,7 @@
   padding: 60px 80px;
 }
 
-.footer__column {
+.footer__columns {
   display: flex;
   justify-content: space-between;
 }
